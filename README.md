@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Actminds, Inc](https://www.linkedin.com/company/actminds/about/)
+- 🔭 I’m currently working as Data Scientist at [Actminds, Inc](https://www.linkedin.com/company/actminds/about/)
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Healthcare Data Solutions
 - 💬 Ask me about Machine Learning
