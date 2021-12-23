@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently using Scala to create Big Data Solutions at Santander Brasil
+- 🔭 I’m currently using Spark and Scala to create Big Data Solutions
 - 🌱 I’m currently learning Rust and Go!
 - 👯 I’m looking to collaborate on Healthcare Data Solutions
 - 💬 Ask me about Databases, Machine Learning and Data Engineering
